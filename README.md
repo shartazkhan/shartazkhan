@@ -6,7 +6,7 @@
 Skills: Python / C#/ C++ / HTML 
 
 - 🔭 I’m currently working on Computer Vision  
-- 🌱 I’m currently learning Data Mining and AI 
+- 🌱 I’m currently learning Machine Learning 
 - ⚡ Fun fact: I am a graphic designer and I love to play guitar  
 
 
