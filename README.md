@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Cloud<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact: I am a graphic designer and I love to play guitar
+🔭 I’m currently working on Computer Vision <br>👯 I’m looking to collaborate on Deep Learning projects<br>🤝 I’m looking for help with Cloud<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact: I am a graphic designer and I love to play guitar
 
 
 ## 🌐 Socials:
